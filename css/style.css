@@ -269,6 +269,8 @@ section.feature {
   gap: 25px;
   border-bottom: 1px solid #eee;
   padding-bottom: 35px;
+  margin-left: 20px;
+
 }
 .information ul li h4 {
   font-size: 23px;
@@ -381,7 +383,7 @@ section.feature {
   font-weight: 700;
 }
 .counters .counter p:last-child {
-  margin-top: -10px;
+  margin-top: 10px;
 }
 
 .counters .circle {
